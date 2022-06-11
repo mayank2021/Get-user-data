@@ -1,0 +1,14 @@
+.nav{
+    background-color: #125B50;
+    height: 12vh;
+    color: #f7f7f7;
+    font-weight:600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    font-size: 1.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
